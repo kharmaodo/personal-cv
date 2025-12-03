@@ -16,8 +16,8 @@ Architecte Technique Senior (16+ ans) spécialisé en **Architecture à Micro-se
 ---
 # COMPÉTENCES TECHNIQUES (Hard Skills)
 
-| Catégorie | Compétences | Niveau (3: Expert / 2: Avancé) |
-| :--- | :--- | :--- |
+| Catégorie | Compétences  Niveau (3: Expert / 2: Avancé) |
+| :--- | :--- |
 | **Génie Logiciel** | Java/JEE, Spring/SpringBoot (3), UML, Clean Architecture, Clean Code (3), Angular, Node.js (2), Ionic (1) |
 | **Architecture / BDD** | Architecture Micro-services, SQL (Oracle, Postgresql, MySql) (3), NoSQL (ELK, Mongo DB, Redis) (2) |
 | **Industrialisation / DevOps** | Docker (3), Maven (3), Kubernetes (2), Jenkins, SonarQube, GIT, Load Balancing (Haproxy, Apache) |
